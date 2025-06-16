@@ -1,3 +1,12 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/pankajgupta14/pankajguta14/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pankajgupta14/count.svg" />
+</p>
+
 # 💫 Pankaj Kumar Gupta : Java Developer
 🔭 I’m currently working on JAVA <br>💬 Ask me about  Java, Collections , Microservice , Servlet , JSP,  Hibernate Framework , Spring Framework <br> 
 

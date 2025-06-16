@@ -1,4 +1,4 @@
-# 💫 Pankaj Kumar GUpta : JAVA DEVELOPER
+# 💫 Pankaj Kumar Gupta : Java Developer
 🔭 I’m currently working on JAVA <br>💬 Ask me about  Java, Collections , Microservice , Servlet , JSP,  Hibernate Framework , Spring Framework <br> 
 
 
